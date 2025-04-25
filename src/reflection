@@ -1,0 +1,7 @@
+BookBuddy Development
+
+Developing BookBuddy was both a learning experience and a creative challenge. Initially, I encountered issues with Tailwind CSS installation, which led to switching back to traditional CSS. While this required more manual styling, it gave me greater control over the design and structure.
+
+Using React with functional components and Context API helped me better understand state management across components. Setting up routing and persisting data with localStorage were valuable hands-on lessons in building a dynamic frontend app.
+
+For future improvements, I’d like to implement authentication, integrate an external book API for easier book entry, and add analytics to track reading habits more deeply. Overall, the process reinforced my skills in React development and UI design.
